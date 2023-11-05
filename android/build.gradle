@@ -1,6 +1,6 @@
 buildscript {
-    // 1.7.10から1.8.0に変更
-    ext.kotlin_version = '1.7.10'
+    // 1.7.10から1.9.0に変更
+    ext.kotlin_version = '1.9.0'
     repositories {
         google()
         mavenCentral()
